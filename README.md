@@ -4,9 +4,9 @@ Welcome to my **Julia Optimization Practices** portfolio! This repository showca
 
 ## 📂 Practice Highlights
 
-Below are the featured practices included in this portfolio, along with their problem statements and optimization approaches:
+Below are the featured practices, along with their problem statements and optimization approaches:
 
-### 📘 **[## Airport Expansion](./Homework 1_mine.ipynb)**
+### 📘 **[Airport Expansion](/Homework 1_mine.ipynb)**
 
 **Problem Statement:**
 This practice focuses on optimizing the expansion of an airport by efficiently allocating resources to meet future demand while minimizing costs and ensuring operational feasibility.
@@ -16,7 +16,7 @@ A **mixed-integer programming (MIP) approach** was used to determine optimal exp
 
 ![](/results/01.png)
 
-### 📘 **[## Plane Sorting](./Homework 2_mine.ipynb)**
+### 📘 **[Plane Sorting](/Homework 2_mine.ipynb)**
 
 **Problem Statement:**
 This practice involves sequencing arriving and departing planes to optimize runway usage, minimize delays, and improve overall airport efficiency.
@@ -26,7 +26,7 @@ A **constraint-based scheduling model** was applied to sort aircraft efficiently
 
 ![](/results/02.png)
 
-### 📘 **[## Max Flow Formulation](./Homework 3_mine.ipynb)**
+### 📘 **[Max Flow Formulation](/Homework 3_mine.ipynb)**
 
 **Problem Statement:**
 This practice explores the maximum flow problem, where the objective is to determine the highest possible flow through a network without exceeding capacity constraints.
@@ -37,7 +37,7 @@ A **graph-based network optimization approach** was used to formulate the proble
 ![](/results/03.png)
 
 
-### 📘 **[## Curve Fitting](./Homework 4_mine.ipynb)**
+### 📘 **[Curve Fitting](/Homework 4_mine.ipynb)**
 
 **Problem Statement:**
 This practice focuses on fitting a mathematical curve to a set of data points, ensuring an optimal balance between accuracy and computational efficiency.
@@ -47,7 +47,7 @@ A **nonlinear regression technique** was applied to fit the best possible curve 
 
 ![](/results/04.png)
 
-### 📘 **[## Minimum Enclosing Circles](./Homework 5_mine.ipynb)**
+### 📘 **[Minimum Enclosing Circles](/Homework 5_mine.ipynb)**
 
 **Problem Statement:**
 This practice addresses the challenge of finding the smallest enclosing circle that contains all given points, optimizing for minimal radius while maintaining coverage.
@@ -58,7 +58,7 @@ A **geometric optimization algorithm** was implemented to compute the minimal en
 ![](/results/05.png)
 
 
-### 📘 **[## Paint Cleaning](./Homework 6_mine.ipynb)**
+### 📘 **[Paint Cleaning](/Homework 6_mine.ipynb)**
 
 **Problem Statement:**
 This practice involves optimizing the paint cleaning process to reduce material waste and ensure maximum efficiency while maintaining high-quality standards.
