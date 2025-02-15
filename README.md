@@ -2,6 +2,13 @@
 
 Welcome to my **Julia Optimization Practices** portfolio! This repository showcases my expertise in **optimization techniques, constraint programming, and mathematical modeling**, demonstrating how I solve complex problems efficiently. Each practice highlights different techniques and insights.
 
+
+## 🔥 Skills Demonstrated
+- **Constraint Programming**
+- **Data Handling & Preprocessing**
+- **Data Visualization**
+- **Mathematical Optimization**
+
 ## 📂 Practice Highlights
 
 Below are the featured practices, along with their problem statements and optimization approaches:
@@ -65,13 +72,6 @@ This practice involves optimizing the paint cleaning process to reduce material 
 
 **Optimization Approach:**
 A **linear programming model** was developed to optimize the paint cleaning process by reducing waste and improving material efficiency while meeting operational constraints.
-
-
-## 🔥 Skills Demonstrated
-- **Constraint Programming**
-- **Data Handling & Preprocessing**
-- **Data Visualization**
-- **Mathematical Optimization**
 
 
 ---
