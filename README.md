@@ -1,6 +1,6 @@
-# 🚀 Julia Optimization Practices Portfolio
+# 🚀 Julia Optimization Practices
 
-Welcome to my **Julia Optimization Practices** portfolio! This repository showcases my expertise in **optimization techniques, constraint programming, and mathematical modeling**, demonstrating how I solve complex problems efficiently. Each practice highlights different techniques and insights.
+Welcome! This repository showcases my expertise in **optimization techniques, constraint programming, and mathematical modeling**, demonstrating how I solve complex problems efficiently. Each practice highlights different techniques and insights.
 
 
 ## 🔥 Skills Demonstrated
